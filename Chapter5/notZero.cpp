@@ -3,12 +3,12 @@
 using namespace std;
 
 int main() {
-    double a, sum = 0;
-    cin >> a;
+    double a = 1, sum = 0;
     while (a != 0) {
-        sum += a;
+        cout << "Enter: ";
         cin >> a;
+        sum += a;
+        cout << "Sum = " << sum << endl;
     }
-    cout << sum;
     return 0;
 }

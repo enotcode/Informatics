@@ -1,11 +1,12 @@
 #include <iostream>
+
 using namespace std;
 
-int main() { 
-	int r;
+int main() {
+    int r;
     cout << "Furlong: ";
     cin >> r;
-    cout << "Yard:" << r*220 << endl;
+    cout << "Yard:" << r * 220 << endl;
 
-    return 0; 
+    return 0;
 }

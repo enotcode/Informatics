@@ -14,13 +14,13 @@ struct pizza {
 };
 
 int main() {
-    pizza * ps = new pizza;
-    cout<<"Enter company name:";
-    cin.getline(ps->name,25);
-    cout<<"Enter pizza diameter:";
-    cin>>ps->d;
-    cout<<"Enter pizza mass:";
-    cin>>ps->mass;
+    pizza *ps = new pizza;
+    cout << "Enter company name:";
+    cin.getline(ps->name, 25);
+    cout << "Enter pizza diameter:";
+    cin >> ps->d;
+    cout << "Enter pizza mass:";
+    cin >> ps->mass;
     ps->print();
     return 0;
 }

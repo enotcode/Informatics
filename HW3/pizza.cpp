@@ -15,12 +15,12 @@ struct pizza {
 
 int main() {
     pizza p;
-    cout<<"Enter company name:";
-    cin.getline(p.name,25);
-    cout<<"Enter pizza diameter:";
-    cin>>p.d;
-    cout<<"Enter pizza mass:";
-    cin>>p.mass;
+    cout << "Enter company name:";
+    cin.getline(p.name, 25);
+    cout << "Enter pizza diameter:";
+    cin >> p.d;
+    cout << "Enter pizza mass:";
+    cin >> p.mass;
     p.print();
     return 0;
 }

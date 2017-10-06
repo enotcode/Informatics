@@ -3,11 +3,12 @@
 using namespace std;
 
 int main() {
-    int a, b, sum = 0;
-    cout << "Enter two integers:";
-    cin >> a >> b;
-    for (int i = a; i <= b; i++)
-        sum += i;
-    cout << sum;
+    double a = 1, sum = 0;
+    while (a != 0) {
+        cout << "Enter: ";
+        cin >> a;
+        sum += a;
+        cout << "Sum = " << sum << endl;
+    }
     return 0;
 }

@@ -39,3 +39,8 @@ Homework on C++ for NNSTU
   * [Menu](/Chapter6/menu.cpp)
   * [Benevolent Order of Programmers](/Chapter6/bop.cpp)
   * [Tax](/Chapter6/tax.cpp)
+
+### [Exercises for Chapter 7](/Chapter7/)
+  * [Harmonic mean](/Chapter7/harmonic.cpp)
+  * [Golf](/Chapter7/golf.cpp)
+

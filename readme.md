@@ -43,4 +43,6 @@ Homework on C++ for NNSTU
 ### [Exercises for Chapter 7](/Chapter7/)
   * [Harmonic mean](/Chapter7/harmonic.cpp)
   * [Golf](/Chapter7/golf.cpp)
+  * [Box](/Chapter7/box.cpp)
+
 

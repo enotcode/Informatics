@@ -44,5 +44,6 @@ Homework on C++ for NNSTU
   * [Harmonic mean](/Chapter7/harmonic.cpp)
   * [Golf](/Chapter7/golf.cpp)
   * [Box](/Chapter7/box.cpp)
+  * [Factorial](/Chapter7/factorial.cpp)
 
 

@@ -8,6 +8,6 @@ int main() {
     int growth;
     cout << "Enter your growth: ___\b\b\b";
     cin >> growth;
-    cout << "Ваш рост: " << growth / ft << " футов и " << growth % ft << " дюймов." << endl;
+    cout << "Your growth: " << growth / ft << " ft and " << growth % ft << " inch." << endl;
     return 0;
 }

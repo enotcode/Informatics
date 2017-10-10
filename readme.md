@@ -45,5 +45,6 @@ Homework on C++ for NNSTU
   * [Golf](/Chapter7/golf.cpp)
   * [Box](/Chapter7/box.cpp)
   * [Factorial](/Chapter7/factorial.cpp)
+  * [Array](/Chapter7/array.cpp)
 
 

@@ -46,5 +46,6 @@ Homework on C++ for NNSTU
   * [Box](/Chapter7/box.cpp)
   * [Factorial](/Chapter7/factorial.cpp)
   * [Array](/Chapter7/array.cpp)
+  * [Structures and functions](/Chapter7/sixth.cpp)
 
 

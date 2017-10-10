@@ -47,5 +47,4 @@ Homework on C++ for NNSTU
   * [Factorial](/Chapter7/factorial.cpp)
   * [Array](/Chapter7/array.cpp)
   * [Structures and functions](/Chapter7/sixth.cpp)
-
-
+  * [Calculate](/Chapter7/calculate.cpp)

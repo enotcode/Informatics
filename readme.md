@@ -28,7 +28,7 @@ Homework on C++ for NNSTU
 ### [Exercises for Chapter 5](/Chapter5/)
   * [Sum of numbers from a gap](/Chapter5/sum.cpp)
   * [Not yet zero](/Chapter5/notZero.cpp)
-  * [Deposits)](/Chapter5/deposits.cpp)
+  * [Deposits](/Chapter5/deposits.cpp)
   * [Sales(Simple)](/Chapter5/selling.cpp)
   * [Sales(Advanced)](/Chapter5/selling2.cpp)
   * [Cars](/Chapter5/cars.cpp)
@@ -52,3 +52,4 @@ Homework on C++ for NNSTU
 ### [Exercises for Chapter 8](/Chapter8/)
   * [String](/Chapter8/string.cpp)
   * [Candy Bar](/Chapter8/candybar.cpp)
+  * [Strings](/Chapter8/third.cpp)

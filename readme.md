@@ -51,3 +51,4 @@ Homework on C++ for NNSTU
 
 ### [Exercises for Chapter 8](/Chapter8/)
   * [String](/Chapter8/string.cpp)
+  * [Candy Bar](/Chapter8/candybar.cpp)

@@ -53,7 +53,7 @@ Homework on C++ for NNSTU
   * [String](/Chapter8/string.cpp)
   * [Candy Bar](/Chapter8/candybar.cpp)
   * [Strings](/Chapter8/third.cpp)
-  * [Golf]
+  * [Golf](/Chapter8/golf/main.cpp)
   * [Max5](/Chapter8/max5.cpp)
   * [Maxn](/Chapter8/max.cpp)
 

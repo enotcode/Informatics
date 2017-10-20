@@ -1,11 +1,4 @@
-![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)
-![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)
-
-# About 
-Homework on C++ for NNSTU
-
-# Table of Contents
+# Schedule
 
 ### [Exercises for Chapter 2](/Chapter2/)
   * [Name and address](/Chapter2/first.cpp)
@@ -56,4 +49,3 @@ Homework on C++ for NNSTU
   * [Golf](/Chapter8/golf/main.cpp)
   * [Max5](/Chapter8/max5.cpp)
   * [Maxn](/Chapter8/max.cpp)
-

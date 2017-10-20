@@ -9,3 +9,7 @@ Homework on C++ for NNSTU
 
 ### [Prata](/Prata/schedule.md)
 ### [Labs](/Labs/schedule.md)
+
+#License
+
+[MIT](/LICENSE/)

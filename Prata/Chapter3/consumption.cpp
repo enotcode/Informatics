@@ -6,6 +6,6 @@ int main() {
     float km, l;
     cout << "Enter the kilometers and liters:";
     cin >> km >> l;
-    cout << "Consumption: " << km / l << " liters on kilometers";
+    cout << "Consumption: " << (l / km) * 100 << " liters on kilometers";
     return 0;
 }

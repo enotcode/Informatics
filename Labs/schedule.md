@@ -1,5 +1,5 @@
 # Schedule
 
-### [I](/Part I/)
-  * [Function F()](/Part I/first.cpp)
+### [Part I](/Part I/)
+  * [Function](/Part I/first.cpp)
   * [One-dimensional array](/Part I/second.cpp)

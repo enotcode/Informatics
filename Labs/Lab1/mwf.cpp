@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void read(int n, double a[n][n]) {
+void read(int n, double **a) {
     cout << "Enter matrix:" << endl;
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
@@ -11,7 +11,7 @@ void read(int n, double a[n][n]) {
     }
 }
 
-void write(int n, double a[n][n]) {
+void write(int n, double **a) {
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++)
             cout << a[i][j] << " ";
@@ -19,7 +19,7 @@ void write(int n, double a[n][n]) {
     }
 }
 
-void swap(int n, double a[n][n]) {
+void swap(int n, double **a) {
     double max;
     int imax, jmax;
 
@@ -48,7 +48,7 @@ void swap(int n, double a[n][n]) {
     }
 }
 
-int findPositive(int n, double a[n][n]) {
+int findPositive(int n, double **a) {
     for (int i = 0; i < n; i++) {
         int number = 0;
         for (int j = 0; j < n; j++)
@@ -68,7 +68,11 @@ int main() {
     int n;
     cout << "Enter matrix size: ";
     cin >> n;
-    double arr[n][n];
+    double **arr = new double *[n];
+    for (int i = 0; i < n; i++) {
+        arr[i] = new double[n];
+    }
+
     read(n, arr);
     swap(n, arr);
     write(n, arr);

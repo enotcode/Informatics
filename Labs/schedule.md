@@ -4,7 +4,7 @@
   * [Function](/Labs/Lab1/first.cpp)
   * [One-dimensional array](/Labs/Lab1/second.cpp)
   * [Matrix](/Labs/Lab1/third.cpp)
-  * [Triangles]()
+  * [Triangles](/Labs/Lab1/triangles.cpp)
   * [Structure](/Labs/Lab1/znak.cpp)
   * [Matrix with pointers](/Labs/Lab1/mwp.cpp)
   * [Structure with pointers](/Labs/Lab1/swp.cpp)
